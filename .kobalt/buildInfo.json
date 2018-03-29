@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "taskName": "kotlin-build-tool-kobalt-demo:compile",
+      "inputChecksum": "38bb976dd224f1767be3201f361d2108",
+      "outputChecksum": "97c08c8b47f5d4058bc4b156608450e0"
+    },
+    {
+      "taskName": "kotlin-build-tool-kobalt-demo:assemble",
+      "inputChecksum": "97c08c8b47f5d4058bc4b156608450e0"
+    },
+    {
+      "taskName": "kotlin-build-tool-kobalt-demo:compileTest",
+      "inputChecksum": "17e4e249a1b39d192b61b9d0aa18a156",
+      "outputChecksum": "0be15126d2a352dc294b6948f23a05f5"
+    }
+  ]
+}
